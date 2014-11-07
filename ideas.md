@@ -60,8 +60,6 @@ Contact Person: Luc Ouellet, Senior Planner, Planning & Infrastructure Tel: (902
 
 The newly adopted Regional Plan calls for a minimum of 25% of the future growth of dwelling units in the Municipality to happen in the Regional Centre. Likewise, the Regional Centre Plan, which is currently being worked on by planning staff, will call for higher densities in the Regional Centre by densifying in the two downtowns, along commercial corridors, and on opportunity sites, both small and large. 
   
-  
-  
 One area in particular that is emerging as a potential long term (20+ years) development node is the Kempt Road industrial lands, which can be defined as the lands contained within the area bordered by Young Street, Windsor Street and Robbie Street/Massachusetts Avenue (with the exception of the Department of National Defence lands). The area is currently being mainly used for car dealerships, which are land intensive operations that may be better suited elsewhere in the Municipality.
 
 This project would make for an ideal studio project which could look at a number of issues as
