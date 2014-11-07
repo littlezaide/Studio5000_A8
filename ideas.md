@@ -34,6 +34,15 @@ infrastructure, urban design, public open space siting and design, complete stre
 complete neighbourhood principles, healthy community principles, servicing, mix uses,
 appropriate heights and densities, etc.
 
+## timeline analysis
+
+1925-1986 CN Yard, scrap yard, coal storage, rail sidings 
+1986-1992 contaminated soil remediation
+1992-1996 negotiation and clearance surveys
+
+## by the numbers
+
+
 ## initial ideas
 
 * Restructuring and Redevelopment of the Kempt Road Lands (Luc)
