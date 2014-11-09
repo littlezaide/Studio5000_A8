@@ -2,14 +2,51 @@
 
 ## process
 
-1. problem identification
-2. background and policy context
-3. plan making
-4. evaluation and feedback
+### problem identification
+
+Kempt Road lands, currently car dealerships and rental car companies, is not the highest use for the area.
+
+### background and policy context
+
+Boundaries of area in question: Young, Robie, Massachusetts, Lady Hammond, Windsor. Part of a larger corridor with 110+ years of industrial development based around the Cotton Factory Spur and the Intercolonial Railway Yards established in 1909. Rail tracks extended as far south as North St. 
+
+ca. 50ha of land area in the study area (or .5km^2)
+
+
+### plan making
+
+### evaluation and feedback
 
 ## problems
 
 * Inderdisciplinary issues - engineers, planners, administrators, facility operators &c.
+
+## to do
+
+* Meet w/Luc Ouellette
+* Contact Halifax archives to arrange a time
+* Try NS Archives 
+* contact EDM 
+* OCL
+* Canada Lands Corporation
+* Do initial GIS setup
+* Find GIS maps
+
+## questions for Luc
+
+* history of the area
+* Zoning challenges; currently C3 (industrial zone, includes uses from R-1, R-2, R-2T, R-3, C-1 and C-2) or C2 (general business zone, includes uses from R-1, R-2, R-2T, R-2A, R-3, C-1 and C-2A uses) 
+* Transportation challenges - poor pedestrian connectivity between west end and Richmond 
+* city relationship with DND, CFB halifax, Willow Park
+* Questions of ownership of the site 
+* Highest use?
+
+## transit
+
+82, 18, 90 Windsor St
+21, 31, 33, 34, 42, 86 Kempt Rd
+21, 42 Mass Ave
+35, 80, 81 Young St
 
 ## potential methods
 
@@ -20,9 +57,45 @@
 * census
 * GIS (mandatory --- at least a context map from ArcGIS)
 
+## Jay Underwood
+
+It became the terminal for the Intercolonial Railway after 1909 when the coal house at what was then Richmond station (close to the MacKay bridge) caught fire. The Richmond terminal had become too small to handle the locomotives of the Intercolonial, the Halifax & Southwestern and the Dominion Atlantic Railway.
+
+Willow Park was built off the line that had been called the "Cotton factory spur" which ran as far as what used to be Piercey's on Robie Street, and the Silliker rail car works just behind.
+
+After the Ocean Terminal opened in 1917 (in the wake of the Explosion of December of that year) Willow Park was turned over the Department of National Defense for use as a coal storage facility for the navy. The roundhouse pit is still visble in the "park" itself, and can be seen in the classic 1930s postcard showing the park from the air. It housed what was then the second roundhouse to be built in Halifax (after Richmond, but before Ocean terminals and Fairview.)
+
+Jay Underwood
+Nova Scotia Railay Heritage Society
+Elmsdale
+
+[@Rootsweb]
+
+## from sessional papers 1911
+
+the double tracking of the Cotton Factory branch which was completed in 1908-09, 
+
+[@GovernmentofCanada1911]
+
+## commitment to Windsor Park   
+
+new armoury being constructed $38million currently for CFB Halifax on Willow Park 
+
+[@PaulMcLeodArmoury2013]
+
+## from the Old North End
+
+house, Willow Park - This house located at Willow Park Subdivision was designed by A.F. Pelton according to the album. The location of this house today is uncertain. There appears to only be one house left of the original Willow Park subdivision along Windsor Street. Willow Park was the subdivision of lands between Windsor and Oxford streets and Young and Vienna streets. Originally owned by Col. Bennett Henderson Hornsby who relocated from Kentucky to Halifax for the purposes of land speculation. This area of town was prominent in the 1880s and 1890s. Despite trying it appears that Hornsby wasn’t successful in selling lots throughout so for much of the late part of the 19th century it remained sparsely populated as by 1878 only 10 houses has been built.
+
+[@PeltonGallery]
+
+## from History of Halifax City
+
+An old building, known as the St. Andrew's Cross, stood on the hill at the corner where Quinpool Road, so-called, now meets the common. On the opposite side an old two story house called Quinpool, which had been the residence of a Mr. O'Brien, stood in a field to the north of the road. This old house became uninhabited and was afterward taken down by Dr. Cogswell, the proprietor of the property, when he divided the fields into building lots. There were two main roads leading from town to the Basin, both meeting at what was called the Three Mile House, a building erected by Mr. Shaw, a member of Assembly, as a hotel, afterwards known as Increase Ward's country house. The Wistermont Road was known as the Blue Bell Road from a very old house with a swinging sign which stood at the corner before you arrive at the Willow Park property. Mr. John Young, known as the author of the letters of Agricola, had then lately purchased this latter place, had improved the house and gardens, and was commencing to work it as a model farm. Further north were the old Dutch farms of Philip Bayer and Jacob Shefforth on either side of the road, surrounded by groups of old willow trees. The Bayer's house has disappeared, but that of the Shefforth family fell to the late Mr. Henry Vieth, who repaired the old buildings. The other road, known as the Fort Needham or Lady Hammond Road, was a prolongation of Gottingen Street. After passing the farms of the late John and James Merkel, it turned to the westward down the hill to the shore of the Basin at the Three Mile House. The Kempt Road had not yet been opened though for some time in contemplation. Two block houses, the remnant of the old fortifications{205} of Halifax, overlooked these roads. The first or nearest blockhouse, was at Fort Needham on the hill south of the Governor's north farm. The other surmounted the hill just above the cottage of the late John Steel, called Three Mile Cottage, at the termination of the Blue Bell Road, near the present Three Mile Church. The old house at the Governor's north farm known as Lady Hammond's house was then in good repair, since fallen down. This house was erected by Lieut. Governor Hammond as a country residence for his family. The north farm, as it was called, extended eastward to the shores of the narrows and included the beech grove near the old railway station. This beautiful grove has been lately cut up by one of the Government Railway Superintendents who caused building lots to be laid off and sold in the grove. This fine collection of trees has been carefully preserved for nearly a century, and had been the scene of many festivities, and was associated with very many pleasing events in the minds of the older citizens.
+
 ## Zone RW / Willow Park Spur
 
-1983 users:
+1983 rail users:
 
 * Public Service Commission
 * NS Tractor
@@ -38,7 +111,7 @@
 * Piercey Supplies (2 tracks)
 * Goodyear Tire 
 
-## Players 
+## Players in Remediation
 
 * Environmental Design and Management (remediation plan writers)
 * CN Rail
@@ -48,7 +121,7 @@
 * OCL Services Ltd (management)
 * Bio-Response Systems Limited
 * Bristol Communications
-
+* Who were the purchasers of real estate?
 
 ## see documents:
 
