@@ -12,7 +12,6 @@ Boundaries of area in question: Young, Robie, Massachusetts, Lady Hammond, Winds
 
 ca. 50ha of land area in the study area (or .5km^2)
 
-
 ### plan making
 
 ### evaluation and feedback
@@ -43,10 +42,69 @@ ca. 50ha of land area in the study area (or .5km^2)
 
 ## transit
 
-82, 18, 90 Windsor St
-21, 31, 33, 34, 42, 86 Kempt Rd
-21, 42 Mass Ave
-35, 80, 81 Young St
+### Windsor St
+
+bus service
+--- -------
+18  30mins all day
+82  one-way peak only
+90  FS peak, 30mins daytime, 60mins evenings and weekends
+
+### Kempt Rd.
+
+bus service
+--- -------
+21  one-way peak only
+31  one-way peak only
+33  one-way peak only
+34  one-way peak only
+42  20mins, no evening service
+86  peak outbound only
+
+### Massachusetts Ave.
+
+bus service
+--- -------
+21  one-way peak only
+42  20mins, no evening service
+
+### Young St
+
+bus service
+--- -------
+35  one-way peak only
+80  30mins all day
+81  30mins all day, no weekend service
+
+## census
+
+DBs to remove:
+
+area    num         pop bldg
+----    ----------  --- ----
+DA      12090232	777	523
+DB      1209023217	356	247
+DB      1209023201	34	18
+DB      1209023202	26	14
+DB      1209023203	26	18
+DB      1209023204	33	17
+DB      1209023207	21	10
+DB      1209023208	0	0
+DB      1209023219	0	0      CFB
+DB      1209023221	0	0      CFB
+DB      1209023220	0	0      CFB
+
+DBs to include:
+
+16  Lower Strawberry Hill 172 123
+15  Upper Strawberry Hill 44    35
+14  Lower Commission    0   0
+18  Upper Commission    0   0
+05  Columbus    0   0
+06  Stanley 0   0
+09  Stairs  5   1   
+10  Kaye    0   0
+22  Willow Park 60  40
 
 ## potential methods
 
@@ -76,6 +134,12 @@ Elmsdale
 the double tracking of the Cotton Factory branch which was completed in 1908-09, 
 
 [@GovernmentofCanada1911]
+
+## definition of Brownfields
+
+UK --- land which is or was occupied by a permanent structure, including the curtilage of the developed land and any associated fixed surface infrastructure (aka previously developed land or PDL) [@Otsuka2008]
+
+Generally used as the opposite of "greenfield" (i.e. distinct from contaminated land). 
 
 ## commitment to Windsor Park   
 
@@ -151,6 +215,7 @@ appropriate heights and densities, etc.
 
 3000 tonnes of PCB soil
 18000 tonnes of metal contaminated soil
+
 ## initial ideas
 
 * Restructuring and Redevelopment of the Kempt Road Lands (Luc)
