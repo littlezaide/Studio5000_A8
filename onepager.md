@@ -1,6 +1,9 @@
 # From Car Dealerships to Neighbourhoods 
 
-challenges of planning the next 25 years of the Cotton Factory Lands in Halifax
+challenges of planning the next 25 years of the Cotton Factory Lands in Halifax 
+Adam Fine, B00157560  
+for 5000 Planning Studio A  
+2014-11-11
 
 ## Proposal
 
