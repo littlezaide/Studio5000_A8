@@ -2,8 +2,7 @@
 
 challenges of planning the next 25 years of the Cotton Factory Lands in Halifax  
 
-by **Adam Fine**, B00157560, for course: 5000 Planning Studio A  
-2014-11-11
+by **Adam Fine**, #B00157560, Assignment 8, Planning Studio 5000, 2014-11-11
 
 ## Proposal
 
