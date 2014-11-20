@@ -22,14 +22,11 @@ ca. 50ha of land area in the study area (or .5km^2)
 
 ## to do
 
-* Meet w/Luc Ouellette
 * Contact Halifax archives to arrange a time
 * Try NS Archives 
 * contact EDM 
 * OCL
 * Canada Lands Corporation
-* Do initial GIS setup
-* Find GIS maps
 
 ## questions for Luc
 
@@ -207,14 +204,14 @@ appropriate heights and densities, etc.
 
 ## timeline analysis
 
-1925-1986 CN Yard, scrap yard, coal storage, rail sidings 
-1986-1992 contaminated soil remediation
-1992-1996 negotiation and clearance surveys
+* 1925-1986 CN Yard, scrap yard, coal storage, rail sidings 
+* 1986-1992 contaminated soil remediation
+* 1992-1996 negotiation and clearance surveys
 
 ## by the numbers
 
-3000 tonnes of PCB soil
-18000 tonnes of metal contaminated soil
+* 3000 tonnes of PCB soil
+* 18000 tonnes of metal contaminated soil
 
 ## initial ideas
 
